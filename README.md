@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shlokrp
 - 👀 I’m interested in programming, finance, stocks, blockchain and Defi.
 - 🌱 I’m currently learning Data Structures and algorithms in C++.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on programming relate projects.
 - 📫 How to reach me on twitter/insta/LinkedIn at @shlokrp
 
 <!---
