@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @shlokrp
-- 👀 I’m interested in programming,blockchain and Defi.
+- 👨‍🎓A B.tech IT 3rd yeat student at BVCOE, Pune.
+- 👀 I’m interested in programming,blockchain technology and world of finance.
 - 🌱 I’m currently learning Data Structures and algorithms in C+ and frontend developement.
-- 📫 How to reach me on twitter/insta/LinkedIn at @shlokrp
+- 🤝 Connect with me on Twitter/Instagram/LinkedIn @shlokrp
 
 <!---
 shlokrp/shlokrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
