@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Shlok Potdar <br>
+- 👋 Hi, I’m Shlok Potdar! <br>
 - 👨‍🎓 A Pre-final year B.tech IT student at BVCOE, Pune. <br>
 - 🛠️ I'm a Frontend developer and actively looking for internships.<br>
 - 🧭 Currently learning Data Structures and Algorithms in C++.<br>
