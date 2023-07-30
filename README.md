@@ -1,5 +1,3 @@
-ok
-
 # 💫 About Me:
 
 - 👋 Hi, I’m Shlok Potdar <br>
