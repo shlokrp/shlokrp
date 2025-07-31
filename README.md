@@ -3,7 +3,7 @@
 - 👨‍🎓 A PGDM Big Data Analytics Student at Goa Institute of Management.<br>
 - 🛠️ I'm a Data Analyst and actively looking for internships.<br>
 - 🧭 Currently learning Machine Learning and Agentic AI.<br>
-- 🪙 I like reading about Business Case Study, stock markets and Blockchain technology.<br>
+- 🪙 I like reading Business Case Studies, Stock Markets and and Blockchain technology.<br>
 - 📬 Reach me at: shlokrpotdar20@gmail.com
 
 
