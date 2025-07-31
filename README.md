@@ -1,9 +1,9 @@
 # 💫 About Me:
 - 👋 Hi, I’m Shlok Potdar! <br>
-- 👨‍🎓 A Final year B.tech IT student at BVCOE, Pune. <br>
-- 🛠️ I'm a Frontend developer and actively looking for internships.<br>
-- 🧭 Currently learning Data Structures and Algorithms in C++.<br>
-- 🪙 I like reading about stock markets and Blockchain technology.<br>
+- 👨‍🎓 A PGDM Big Data Analytics Student at Goa Institute of Management.<br>
+- 🛠️ I'm a Data Analyst and actively looking for internships.<br>
+- 🧭 Currently learning Machine Learning and Agentic AI.<br>
+- 🪙 I like reading about Business Case Study, stock markets and Blockchain technology.<br>
 - 📬 Reach me at: shlokrpotdar20@gmail.com
 
 
